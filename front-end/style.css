@@ -889,6 +889,7 @@ body.dragging * {
   letter-spacing: 4px;
   background: linear-gradient(to right, #FFFFFF, var(--color-dev-blue));
   -webkit-background-clip: text;
+  background-clip: text;
   -webkit-text-fill-color: transparent;
 }
 
